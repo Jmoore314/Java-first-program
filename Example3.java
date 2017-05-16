@@ -20,8 +20,8 @@ public class Example3 {
 
     var /= 4;
     x /= 4;
-    y /= 4;
-    z /= 4;
+    y /= 3;
+    z /= 3;
 
     System.out.println("var is now: " + var);
     System.out.println("x is now: " + x);
